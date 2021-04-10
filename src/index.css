@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  color: red;
+}
+
+.greeting {
+  color: blue;
+}
+
+.success {
+  background-color: green;
+  font-size: 18px;
+  color: white;
+}
+
+.error {
+  background-color: red;
+  font-size: 18px;
+  color: white;
+}
